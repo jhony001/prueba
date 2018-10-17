@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola como estas
+=======
+hola como estas, bien, si muy bien
+>>>>>>> origin
